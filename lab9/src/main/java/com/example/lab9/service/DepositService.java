@@ -1,6 +1,7 @@
 package com.example.lab9.service;
 
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import com.example.lab9.model.Account;
 import com.example.lab9.model.DepositTransaction;
