@@ -1,7 +1,6 @@
 package com.example.lab9.service;
 
 import org.springframework.stereotype.Service;
-import org.springframework.transaction.annotation.Transactional;
 
 import com.example.lab9.model.Account;
 import com.example.lab9.model.DepositTransaction;
@@ -39,6 +38,6 @@ public class DepositService {
         depositRepository.save(transaction);
 
         // ใช้ Rollback ข้อ 12
-        throw new RuntimeException("Test Rollback");
+        //throw new RuntimeException("Test Rollback");
     }
 }
