@@ -2,6 +2,8 @@
 
 นางสาวณัฐนันทน์ บุษดี รหัสนักศึกษา 673380037-1 Section 1
 
+ภาพหน้าจอและตอบคำถามอยู่ที่ไฟล์ **[ScreenshotLab9.pdf](ScreenshotLab9.pdf)**
+
 # Lab 9: Spring Boot - Transaction
 
 > ### เอกสารอ่านประกอบ
